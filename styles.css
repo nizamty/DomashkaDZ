@@ -1,4 +1,5 @@
- body {
-    background: red;
+ feature/header
+  body {
+    background: linear-gradient(135deg, blue, red);
     color: white;
   }
